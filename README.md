@@ -1,4 +1,4 @@
-![Header GitHub SebastianNope](https://i.imgur.com/TCXhz9f.png)
+![Header GitHub SebastianNope](https://i.imgur.com/3hT14Ob.png)
 
 <h1 align='center'>Hi there 👋, I'm Sebastian 😎🚀</h1>
 
