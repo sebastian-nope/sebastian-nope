@@ -1,35 +1,27 @@
 ![Header GitHub SebastianNope](https://i.imgur.com/kgFc0yf.png)
 
-<h1 align='center'>Hi there 👋, I'm Sebastian 😎🚀</h1>
+<h1 align='center'>Hi World 👋, I'm Sebastian 😄</h1>
 
 <p align='center'>
-Fullstack software developer, I've take courses in Platzi, Google and Microsoft, I know technologies like HTML, CSS, Java Script, React, Java 🔥.
+I am a Web Programming Technician from UNAB, Systems Technician from SENA, AWS Technician from AWS Training & Certification and I study at Platzi, I know technologies like HTML, CSS, JavaScript, React, Wordpress and Photoshop.
 </p>
 
 <p align='center'>
-Also, I'm conten creator in the next social networks 🤗.
+And these are my social networks 🧐.
 </p>
 
 <p align='center'>
-
-  <a href="https://www.tiktok.com/@briandv198">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=" />
+  
+  <a href="https://www.linkedin.com/in/sebastian-nope/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.youtube.com/channel/UCgivlHFm7fBG9O04jEi-9CA">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
+  <a href="https://wa.me/573026474171">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://twitter.com/briandv198">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/briandv198">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:briandv198@gmail.com?subject=Hola%20Brian">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
+  <a href="https://www.instagram.com/sebastian_nope/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
 </p>
@@ -38,23 +30,14 @@ Also, I'm conten creator in the next social networks 🤗.
 
 <h4 >⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h4>
 <p align='center'>
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/linux%20-%23000.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp;&nbsp;
 </p>
-
-<hr>
-
-<h4>🚀&nbsp;&nbsp;&nbsp;My Projects</h4>
-<h5><a href="https://github.com/Briandv198/rick-morty">💻 Rikc and Morty</a></h5>
-<p>Connection to the rick and morty api that shows all its characters and characteristics.<br>
-<a href="#">Repository here</a></p>
-
-<h5><a href="https://github.com/Briandv198/Sistycommex">🔥 Sistycommex</a></h5>
-<p>Landingpage designed in figma with dark mode.<br>
-<a href="https://github.com/Briandv198/Sistycommex">Repository here</a></p>
