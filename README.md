@@ -1,6 +1,6 @@
 ![Header GitHub SebastianNope](https://i.imgur.com/kgFc0yf.png)
 
-<h1 align='center'>Hi World 👋, I'm Sebastian 😄</h1>
+<h1 align='center'>Hello World 👋, I'm Sebastian 😄</h1>
 
 <p align='center'>
 I am a Web Programming Technician from UNAB, Systems Technician from SENA, AWS Technician from AWS Training & Certification and I study at Platzi, I know technologies like HTML, CSS, JavaScript, React, Wordpress and Photoshop.
