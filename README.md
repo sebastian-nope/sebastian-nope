@@ -1,13 +1,13 @@
 ![Header GitHub SebastianNope](https://i.imgur.com/kgFc0yf.png)
 
-<h1 align='center'>Hello World 👋, I'm Sebastian 😄</h1>
+<h1 align='center'>Hola Mundo 👋, Soy Sebastian Nope 😄</h1>
 
 <p align='center'>
-I am a Web Programming Technician from UNAB, Systems Technician from SENA, AWS Technician from AWS Training & Certification and I study at Platzi, I know technologies like HTML, CSS, JavaScript, React, Wordpress and Photoshop.
+Desarrollador Front-end, Diseñador UX/UI y Tecnico en Sistemas con experiencia en tecnología y en crear experiencias de usuario accesibles 😎. Me apasiona contribuir a un mundo más inclusivo a través del diseño y desarrollo de productos y servicios. Me motiva constantemente aprender y mejorar mis habilidades tecnológicas y personales. Estoy comprometido con la accesibilidad y la no discriminación en la tecnología para un mundo mejor ❤️.
 </p>
 
 <p align='center'>
-And these are my social networks 🧐.
+Y estas son mis Redes Sociales 🧐.
 </p>
 
 <p align='center'>
@@ -28,7 +28,7 @@ And these are my social networks 🧐.
 
 <hr>
 
-<h4 >⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h4>
+<h4 >⚒&nbsp;&nbsp;&nbsp;Mi kit de Herramientas de Desarrollo</h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
